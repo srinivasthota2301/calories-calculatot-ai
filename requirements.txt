@@ -1,0 +1,11 @@
+# Core web framework
+streamlit>=1.28.0
+
+# AI text processing
+cohere>=4.21.0
+
+# HTTP requests for API calls
+requests>=2.31.0
+
+
+# os - for environment variables (if using secure API key setup)
